@@ -1,0 +1,10 @@
+queue = ["Nicole", "Angela", "Col"] 
+queue.append("Jayzel") 
+queue.append("Dek") 
+print(queue) 
+  
+print(queue.pop(0)) 
+
+print(queue.pop(0)) 
+
+print(queue) 
